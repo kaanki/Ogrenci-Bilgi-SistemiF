@@ -1,0 +1,6 @@
+C:\Users\kaan_\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemiF\OgrenciBilgiSistemiF\bin\Debug\OgrenciBilgiSistemiF.exe.config
+C:\Users\kaan_\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemiF\OgrenciBilgiSistemiF\bin\Debug\OgrenciBilgiSistemiF.exe
+C:\Users\kaan_\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemiF\OgrenciBilgiSistemiF\bin\Debug\OgrenciBilgiSistemiF.pdb
+C:\Users\kaan_\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemiF\OgrenciBilgiSistemiF\obj\Debug\OgrenciBilgiSistemiF.exe
+C:\Users\kaan_\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemiF\OgrenciBilgiSistemiF\obj\Debug\OgrenciBilgiSistemiF.pdb
+C:\Users\kaan_\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemiF\OgrenciBilgiSistemiF\obj\Debug\OgrenciBilgiSistemiF.csprojResolveAssemblyReference.cache
